@@ -1,3 +1,2 @@
 require("cp.core.options")
-require("cp.core.mappings")
-require("cp.core.autocmds")
+require("cp.core.keymaps")
